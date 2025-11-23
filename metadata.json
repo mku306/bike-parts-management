@@ -1,0 +1,5 @@
+{
+  "name": "Honda Bike Parts Manager",
+  "description": "An inventory management application for Honda motorcycle accessories and parts. It allows users to track purchases, sales, and current stock levels, with all data saved locally in the browser.",
+  "requestFramePermissions": []
+}
